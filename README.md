@@ -6,6 +6,12 @@ You can only move forward when the doll says "Green Light", but the moment it tu
 
 Can you survive the Red Light, Green Light challenge? Move only when the doll isn’t looking… One wrong move during red light, and it's GAME OVER. 💀
 
+<img width="662" height="1152" alt="Screenshot 2025-07-15 232057" src="https://github.com/user-attachments/assets/55e6fb67-35f0-48ef-8ffe-c07b7a7fed6c" />
+<img width="680" height="1103" alt="Screenshot 2025-07-15 232113" src="https://github.com/user-attachments/assets/c16b4911-d02e-4fcd-b2db-37b5d5f09410" />
+<img width="538" height="56" alt="Screenshot 2025-07-15 232154" src="https://github.com/user-attachments/assets/e231b97c-792a-4026-9b24-02ee8a21e248" />
+<img width="658" height="68" alt="Screenshot 2025-07-15 232121" src="https://github.com/user-attachments/assets/d496b445-f273-4008-9c09-229e7e28d356" />
+
+
 ## How to Play
 🟢 Green Light – Use W / Arrow Up to move forward.
 
