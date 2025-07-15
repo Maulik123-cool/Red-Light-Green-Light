@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: #111;
+  color: #fff;
+  text-align: center;
+}
+
+#gameContainer {
+  margin: 20px auto;
+  border: 2px solid #fff;
+  width: 400px;
+  background: #222;
+}
+
+canvas {
+  display: block;
+  background: linear-gradient(to top, #444, #000);
+  margin: auto;
+}
+
+button {
+  margin-top: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+  background: green;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#status {
+  font-size: 20px;
+  margin: 10px;
+}
